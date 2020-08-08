@@ -13,3 +13,7 @@ Watch tutorial on youtube.
 ## Updates
 
 Dry run updates found here.
+
+## Branching and Merging
+
+Trying to merge from the secondary branch to the main branch. 
